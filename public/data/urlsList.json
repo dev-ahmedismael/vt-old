@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://localhost:8000",
+  "contact_messages": "http://localhost:8000/api/contact-messages",
+  "interested_messages": "http://localhost:8000/api/contact-messages",
+  "nav_elements": "http://localhost:8000/api/nav-elements",
+  "pages": "http://localhost:8000/api/pages",
+  "contents": "http://localhost:8000/api/contents",
+  "promo_codes": "http://localhost:8000/api/promocodes",
+  "contracts": "http://localhost:8000/api/contracts",
+  "uncompleted": "http://localhost:8000/api/uncompleted",
+  "failed_payments": "http://localhost:8000/api/failedpayments",
+  "contract_number": "http://localhost:8000/api/contracts/number"
+}
